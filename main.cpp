@@ -5,5 +5,9 @@ using namespace std;
 using namespace cv;
 
 int main(){
-  
+  Mat image;
+  image = imread("chadani.jpg");
+  namedWindow("Chadani",image);
+  imshow("Chadani",image);
+  waitKey(0);
 }
