@@ -1,2 +1,2 @@
-# opencv_load_image
-Opencv To Load image on a window
+#Open CV Image Display.
+Opencv To Load image on a window. Simple one. 
